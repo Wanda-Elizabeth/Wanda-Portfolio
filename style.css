@@ -88,7 +88,7 @@ p {
 }
 #all{
     background: url(images/laptop.jpg);
-   background-size: 1280px;
+   background-size: 100%;
    background-repeat: no-repeat;
     
 }
