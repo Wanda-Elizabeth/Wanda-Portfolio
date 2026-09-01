@@ -6,10 +6,10 @@ export default function Navigation() {
 
   const navItems = [
     { label: 'Home', to: 'hero' },
+    { label: 'About', to: 'about' },
     { label: 'Experience', to: 'experience' },
     { label: 'Projects', to: 'projects' },
     { label: 'Skills', to: 'skills' },
-    { label: 'About', to: 'about' },
     { label: 'Contact', to: 'contact' },
   ]
 
